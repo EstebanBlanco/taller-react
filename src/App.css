@@ -1,4 +1,7 @@
 .App {
   display: flex;
+  padding: 50px;
   min-height: 100vh;
+  background-color: #61dafb;
 }
+
